@@ -1,0 +1,10 @@
+void fun (int a, int b){
+    //"a function that calculates the sum of two integers a and b"
+    int c = a + b;
+    return c;
+
+}
+
+main (){
+    fun(1,2);
+}
