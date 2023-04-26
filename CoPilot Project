@@ -5,6 +5,9 @@ void fun (int a, int b){
 
 }
 
-main (){
-    fun(1,2);
+int main(){
+    int a = 3;
+    int b = 4;
+    fun(a,b);
+    return 0;
 }
